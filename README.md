@@ -1,4 +1,4 @@
-# resnet
+## resnet 4 clasess
 python 3.8.6 64b
 tensorflow 2.5
 
