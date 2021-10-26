@@ -1,11 +1,11 @@
 ###archivo entrenada
-
+#v2ffdsafsa
 #%%
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import preprocessing
-
+import numpy as np
 
 #%%
 image_size = (150, 150)
